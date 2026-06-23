@@ -57,6 +57,8 @@ pip install -r requirements.txt
    pg_dump -U postgres -h localhost -d kasirhoi_db -s > schema.sql
    ```
 
+![Demo Aplikasi Kasirhoi](video_image/kasirhoi_video.mp4)
+
 ---
 
 ## 💻 Lisensi & Distribusi
