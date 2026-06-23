@@ -48,6 +48,8 @@ cd kasirhoi
 pip install -r requirements.txt
 ```
 
+
+
 ### Konfigurasi Database
 1. Pastikan server PostgreSQL Anda sudah aktif.
 2. Lakukan *dump* struktur skema awal jika diperlukan:
