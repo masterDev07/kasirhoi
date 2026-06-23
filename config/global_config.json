@@ -1,0 +1,25 @@
+{
+    "PROFIL_PERUSAHAAN": {
+        "NAMA_GUDANG": "RTX BUILDING 58",
+        "ALAMAT": "Jalan Raya Padamara Blok P-14, Padamara",
+        "TERIMA_KASIH": "Terima Kasih Atas Kunjungan Anda",
+        "FOOTER": "- Dokumen Digital Valid by Dolarmoro  -"
+    },
+    "WINDOW": {
+        "PROGRAM": "KASIR",
+        "WELCOME": "WELCOME AT"
+    },
+    "PERANGKAT_KASIR": {
+        "PORT_TIMBANGAN": "/dev/ttyV1",
+        "NAMA_PRINTER": "Printer_Thermal_RTX"
+    },
+    "SERVER": {
+        "IP": "192.168.43.165:8000"
+    },
+    "BAHASA": {
+        "NAMA": "id"
+    }
+}
+
+
+
