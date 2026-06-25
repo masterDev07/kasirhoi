@@ -8,9 +8,9 @@ Aplikasi ini menggunakan arsitektur hybrid yang mengintegrasikan data secara mul
 
 ## ✨ Fitur Unggulan
 
-### 🛡️ Arsitektur Anti-Down (Offline-First)
+### 🛡️ Arsitektur Anti-Down
 * **Zero Downtime**: Transaksi tetap berjalan 100% lancar meskipun server PostgreSQL pusat mengalami gangguan dalam waktu yang lama.
-* **Silent Background Sync**: Pengiriman data transaksi dilakukan secara senyap (*silent*) dan berkala untuk memastikan seluruh data lokal sukses terunggah ke server pusat.
+* **Silent Background Sync**: Pengiriman data transaksi dilakukan secara senyap (*silent*) dan berkala untuk memastikan seluruh data sukses terunggah ke server.
 
 ### ⚖️ Integrasi Perangkat Keras
 * **Koneksi Serial Timbangan**: Terintegrasi langsung dengan perangkat timbangan digital via jalur serial untuk akurasi pengukuran berat produk yang presisi.
