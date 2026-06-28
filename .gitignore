@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-build/
-dist/
-*.spec
-analisa_kelas/
-
-# 2026-06-28 21:33
-pos_lokal.db.sql
