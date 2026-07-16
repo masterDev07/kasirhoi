@@ -23,6 +23,19 @@ Aplikasi ini menggunakan arsitektur hybrid yang mengintegrasikan data secara mul
 ### 🎨 Desain & Antarmuka Modern
 * **UI/UX Intuitif**: Tampilan antarmuka yang modern, bersih, dan sangat mudah digunakan bahkan oleh pengguna awam sekalipun.
 
+
+| Dashboard Utama | Halaman Login |
+|---|---|
+| <img src="video_image/dashboard.png" width="100%"> | <img src="video_image/login.png" width="100%"> |
+
+
+<p align="center">
+  <img src="video_image/ganti_password.png" width="32%" alt="Gambar 1" />
+  <img src="video_image/edit_item.png" width="32%" alt="Gambar 2" />
+  <img src="video_image/otorisasi_supervisor.png" width="32%" alt="Gambar 3" />
+</p>
+
+
 ---
 
 ## 🏗️ Arsitektur Database
